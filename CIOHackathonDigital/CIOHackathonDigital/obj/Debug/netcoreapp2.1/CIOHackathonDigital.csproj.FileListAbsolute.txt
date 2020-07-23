@@ -1,0 +1,17 @@
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\CIOHackathonDigital.deps.json
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\CIOHackathonDigital.runtimeconfig.json
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\CIOHackathonDigital.runtimeconfig.dev.json
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\CIOHackathonDigital.dll
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\bin\Debug\netcoreapp2.1\CIOHackathonDigital.pdb
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.AssemblyInfoInputs.cache
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.AssemblyInfo.cs
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.csproj.CoreCompileInputs.cache
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.RazorAssemblyInfo.cache
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.RazorAssemblyInfo.cs
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.RazorTargetAssemblyInfo.cache
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.dll
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.pdb
+C:\Users\melwin_samuel\source\repos\melwinjohn\hackathon-cio\CIOHackathonDigital\CIOHackathonDigital\obj\Debug\netcoreapp2.1\CIOHackathonDigital.genruntimeconfig.cache
